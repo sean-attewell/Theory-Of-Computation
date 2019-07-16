@@ -1,5 +1,7 @@
 # Project
 
+<!-- edit -->
+
 ## State machines:
 
 1. Draw out the state machine for a car's turn signal system. What are the
@@ -44,4 +46,3 @@ Area code: 555
 Prefix: 123
 Suffix: 4567
 ```
-
